@@ -1,1 +1,1 @@
-# SDS_Project Wecolme to the party
+# SDS_Project Welcome to the party
