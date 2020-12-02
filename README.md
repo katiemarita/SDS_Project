@@ -1,5 +1,7 @@
 --------------------------
-SDSGroup - jupyter notebook where I have cleaned and transformed all the data listed below, ready for Moran's I 
+Group SDS - jupyter notebook where I have cleaned and transformed all the data listed below, ready for Moran's I 
+
+To download this, click the file > 'Raw' data >  press ctrl+s to save it as .ipynb (Note that you'll have to manually type '. ipynb' after the file name to make this work, as files from GitHub are saved as text files as default - so you will basically be saving it as 'Group SDS.ipynb.ipynb)
 --------------------------
 MSOA_2011_London_gen_MHW.(xxx) files  - London MSOA Shapefile data
 --------------------------
